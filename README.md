@@ -1,4 +1,4 @@
-# Laboratorio 9 - Web Components
+# Laboratorio 10
 
 Este proyecto usa Web Components, shadow DOM, variables css, slots y css parts
 
@@ -22,7 +22,7 @@ La mayoria de cambios visuales globales se hacen en `styles.css`, dentro de `:ro
 }
 ```
 
-Si queres cambiar colores, espacios, radios, fondos o sombras, revisa primero `styles.css`.
+Si quere cambiar colores, espacios, radios, fondos o sombras todo esta `styles.css`
 
 ## Cambiar atributos desde la etiqueta
 
